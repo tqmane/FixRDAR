@@ -1,0 +1,1 @@
+## iPhone 8, Se2/3 用のiPhoneX Gesture有効時に表示されるRDAR (Redbar)を修正するためのファイルです
